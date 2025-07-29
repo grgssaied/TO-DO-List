@@ -12,6 +12,6 @@
 
 🔗 **روابط مهمة:**
 - 🌐 [جرب التطبيق لايف](https://grgssaied.github.io/TO-DO-List/)
-- 💻 [شوف الكود على GitHub](https://github.com/EngGrgs/TO-DO-List)
+- 💻 [شوف الكود على GitHub](https://grgssaied.github.io/TO-DO-List/)
 
 📌 المشروع جزء من رحلتي في تعلم JavaScript
