@@ -1,4 +1,4 @@
-To Do App 📝
+كمTo Do App 📝
 
 مشروع بسيط باستخدام:
 - HTML
@@ -10,4 +10,4 @@ To Do App 📝
 
 ## 🔗 روابط مهمة:
 - [شوف المشروع لايف هنا](https://grgssaied.github.io/TO-DO-List/)
-- [الكود على GitHub](https://github.com/grgssaied/TO-DO-List)
+- [الكود على GitHub](https://grgssaied.github.io/TO-DO-List/)
